@@ -33,7 +33,11 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-02/img/Zadanie1.1.png)
+![Конфигурация](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-02/img/Zadanie1.1.png)
+
+![Конфигурация 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-02/img/Zadanie1.2.png)
+
+![Успешное выполнение](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-02/img/Zadanie1.3.png)
 
 
 ---
@@ -48,7 +52,9 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Пайплайн](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-02/img/Zadanie2.1.png)
+
+![Выполнение](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-02/img/Zadanie2.2.png)
 
 
 ---
