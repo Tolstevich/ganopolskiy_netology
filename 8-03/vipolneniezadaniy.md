@@ -35,8 +35,12 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Скрин сборки](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-03/img/Zadanie2.png)`
 
+
+![.gitlab-ci](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-03/img/.gitlab.png)`
+
+Я скопировал для выполнения задания с вебинара, т.к. что-то чуть объемнее заставляло намертво зависнуть мою машину. Гитлаб тяжелый..очень
 
 ---
 
