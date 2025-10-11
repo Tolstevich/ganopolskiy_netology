@@ -14,6 +14,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Скрин сборки](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-03/img/Runner1.2.png)`
 
 
@@ -34,6 +35,7 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Скрин сборки](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/8-03/img/Zadanie2.png)`
 
 
