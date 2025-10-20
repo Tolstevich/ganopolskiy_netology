@@ -50,7 +50,14 @@
 
 
 
-![Задание 1]()
+![Скрин 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-01(monitoring)/img/1.jpg)
+
+![Скрин 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-01(monitoring)/img/2.jpg)
+
+![Скрин 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-01(monitoring)/img/3.jpg)
+
+
+
 
 ### Задание 2
 
