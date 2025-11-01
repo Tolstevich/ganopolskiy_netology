@@ -58,3 +58,17 @@
 ![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-04(monotiring)/img/3.1.png)
 
 ![Задание 3.1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-04(monotiring)/img/3.2.png)
+
+
+Задание 4*
+
+Установите Grafana.
+Требования к результату
+
+    Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
+
+
+
+
+Задание 5*
+    Интегрируйте Grafana и Prometheus.
