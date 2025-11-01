@@ -67,8 +67,10 @@
 
     Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
-
+![Задание 4](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-04(monotiring)/img/4.png)
 
 
 Задание 5*
     Интегрируйте Grafana и Prometheus.
+
+![Задание 5](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hw-04(monotiring)/img/5.png)    
