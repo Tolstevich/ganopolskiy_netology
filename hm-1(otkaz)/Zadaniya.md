@@ -8,7 +8,13 @@
     Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
     На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-   
+
+    Настройка маршрутизатора
+![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-1(otkaz)/img/zadanie1.1.png)
+
+
+    Схема
+![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-1(otkaz)/img/zadanie1.2.png)
 
 
 
@@ -21,3 +27,5 @@
     На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 
+    Скриншот переезда. 
+    !(Задание 2)[https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-1(otkaz)/img/Zadanie2.4.png]
