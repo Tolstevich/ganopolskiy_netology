@@ -28,4 +28,4 @@
 
 
     Скриншот переезда. 
-!(Задание 2)[https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-1(otkaz)/img/Zadanie2.4.png]
+![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-1(otkaz)/img/Zadanie2.4.png)
