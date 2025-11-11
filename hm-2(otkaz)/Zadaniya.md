@@ -26,6 +26,8 @@
 
    Перенаправление запросов на 8888 и 9999 поочередное
 
+   Ссылка на файл конфигурации для задания 1 - https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-2(otkaz)/cfg/zadanie1haproxy.cfg
+
 
 ![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-2(otkaz)/img/1.png)
 
@@ -37,6 +39,6 @@
     HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
     На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
-   
+   Ссылка на файл конфигурации для задания 2 - https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-2(otkaz)/cfg/zadanie2haproxy.cfg
 
 ![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-2(otkaz)/img/2.png)
