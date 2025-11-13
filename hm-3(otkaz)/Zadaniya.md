@@ -25,13 +25,26 @@
     На проверку направить скриншот с командой и результатом ее выполнения
 
 
+   Зеркальная копия с исключением скрытых директорий
+
+![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-3(otkaz)/img/1.png)
+
 
 Задание 2
-
-
 
     Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
     Резервная копия должна быть полностью зеркальной
     Резервная копия должна создаваться раз в день, в системном логе должна появляться запись об успешном или неуспешном выполнении операции
     Резервная копия размещается локально, в директории /tmp/backup
     На проверку направить файл crontab и скриншот с результатом работы утилиты.
+
+
+Файл crontab: https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-3(otkaz)/cfg/crontab
+
+   Запись в логе
+
+![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-3(otkaz)/img/2.png)
+
+   Результат выполнения
+
+![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-3(otkaz)/img/3.png)
