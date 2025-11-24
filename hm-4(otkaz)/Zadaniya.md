@@ -45,3 +45,19 @@
 2. Скриншот статуса балансировщика и целевой группы.
 
 3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
+
+   Выполнение задания
+
+1. Ссылка на playbook терраформ: https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-4(otkaz)/tf/main.tf
+
+2. Скриншот статуса балансировщика и целевой группы
+
+
+![Скрин 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-4(otkaz)/img/image.png)
+
+
+3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
+
+
+![Скрин 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/hm-4(otkaz)/img/image%20copy.png)
+
