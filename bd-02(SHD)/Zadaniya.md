@@ -37,7 +37,7 @@
 
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
-
+![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-02(SHD)/img/2.png)
 
 Задание 3. Удаление по TTL в Memcached
 
@@ -45,7 +45,7 @@
 
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
 
-
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-02(SHD)/img/3.png)
 
 Задание 4. Запись данных в Redis
 
@@ -53,7 +53,7 @@
 
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
-
+![Задание 4](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-02(SHD)/img/4.png)
 
 Задание 5*. Работа с числами
 
@@ -61,7 +61,7 @@
 
 Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.
 
-
+![Задание 5](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-02(SHD)/img/5.png)
 
 
 
