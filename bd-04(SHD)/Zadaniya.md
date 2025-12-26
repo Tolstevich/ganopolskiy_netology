@@ -20,12 +20,10 @@
 Задание 1. Установка RabbitMQ
 
 Используя Vagrant или VirtualBox, создайте виртуальную машину и установите RabbitMQ. Добавьте management plug-in и зайдите в веб-интерфейс.
-
-
-
-
-
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.
+
+![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/1.png)
+
 Задание 2. Отправка и получение сообщений
 
 Используя приложенные скрипты, проведите тестовую отправку и получение сообщения. Для отправки сообщений необходимо запустить скрипт producer.py.
@@ -39,6 +37,11 @@ $ pip install pika
 В качестве решения домашнего задания приложите оба скриншота, сделанных на этапе выполнения.
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
+
+![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/2.1.png)
+
+![Задание 2.1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/2.2.png)
+
 Задание 3. Подготовка HA кластера
 
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ. Добавьте в файл hosts название и IP-адрес каждой машины, чтобы машины могли видеть друг друга по имени.
@@ -55,14 +58,26 @@ $ cat /etc/hosts
 
 В качестве решения домашнего задания приложите скриншоты из веб-интерфейса с информацией о доступных нодах в кластере и включённой политикой.
 
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/3.png)
+
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/3.1.png)
+
 Также приложите вывод команды с двух нод:
 
 $ rabbitmqctl cluster_status
+
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/3.3.png)
+
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/3.4.png)
 
 Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
 
 $ rabbitmqadmin get queue='hello'
 
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/3.8.png)
+
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
 
 Приложите скриншот результата работы второго скрипта.
+
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/bd-04(SHD)/img/3.9.png)
