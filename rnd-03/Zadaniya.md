@@ -21,19 +21,19 @@
 
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 
-
+![Задание 1](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-03/img/1.png)
 
 Задание 2
 
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
 
-
+![Задание 2](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-03/img/2.png)
 
 Задание 3
 
 Получите последние пять аренд фильмов.
 
-
+![Задание 3](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-03/img/3.png)
 
 Задание 4
 
@@ -44,4 +44,4 @@
     все буквы в фамилии и имени из верхнего регистра переведите в нижний регистр,
     замените буквы 'll' в именах на 'pp'.
 
-
+![Задание 4](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-03/img/4.png)
