@@ -47,9 +47,9 @@
 
 Посчитайте количество продаж, выполненных каждым продавцом. Добавьте вычисляемую колонку «Премия». Если количество продаж превышает 8000, то значение в колонке будет «Да», иначе должно быть значение «Нет».
 
-[Задание 4](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-04/img/4.png)
+![Задание 4](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-04/img/4.png)
 
 Задание 5*
 Найдите фильмы, которые ни разу не брали в аренду.
 
-https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-04/img/5.png
+![Задание 5](https://github.com/Tolstevich/ganopolskiy_netology/blob/master/rnd-04/img/5.png)
