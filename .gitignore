@@ -12,5 +12,4 @@ terraform.tfvars
 *.yml
 var.tf
 
-docker
 vagrant
